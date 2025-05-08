@@ -31,7 +31,7 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 
 ## 📫 ¿Cómo contactarme?
 
-- [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/francisco-flor-5685a7238/))  
+- [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/francisco-flor-5685a7238/))**  
 - ✉️ Email: 
 
 ---
