@@ -10,7 +10,7 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 - ⚽ **[Análisis ]()**  
   Proyecto para explorar y optimizar bases de datos relacionadas al .
 
-- 📊 **[Dashboard]()**  
+- 📊 **[Dashboard de indicadores mundiales](https://co7co7.github.io/PowerBI_Indicadores-Mundiales/)**  
   Visualización interactiva.
 
 - 📚 **[Análisisen R]()**  
