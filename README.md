@@ -17,7 +17,7 @@ Pruebas sobre desertores de servicio.
   Comparación entre los índices S&P 500 y NASDAQ
 
 - 🎵 **[Exploración de datos con el API de Spotify]()**  
-  Proyecto para practicar APIs y analizar tendencias musicales.
+  Proyecto para practicar APIs
 
 ---
 
