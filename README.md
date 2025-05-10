@@ -16,7 +16,7 @@ Pruebas sobre desertores de servicio.
 - 📚 **[Comparación en R entre los índices S&P 500 y NASDAQ](https://co7co7.github.io/Co7Co7.github.io-RStudio-Personal/)**  
   Comparación entre los índices S&P 500 y NASDAQ
 
-- 🎵 **[Exploración de datos con el API de Spotify]()**  
+- 🎵 **[Exploración de datos con el API de Spotify](https://co7co7.github.io/Spotify/)**  
   Proyecto para practicar APIs
 
 ---
