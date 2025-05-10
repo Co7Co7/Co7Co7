@@ -23,9 +23,9 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 
 ## 🛠️ Tecnologías y herramientas
 
-- **Lenguajes**: R, SQL básico, algo de Python
+- **Lenguajes**: R, Python
 - **Herramientas**: Power BI, Excel intermedio avanzado, KNIME
-- **Bases de datos**: manipulación en R, consultas SQL básicas
+- **Bases de datos**: consultas básicas en SQL
 
 ---
 
