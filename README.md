@@ -11,7 +11,7 @@ Me gusta transformar datos en información útil para la toma de decisiones.
   Proyecto para explorar y optimizar bases de datos relacionadas al .
 
 - 📊 **[Dashboard de indicadores mundiales](https://co7co7.github.io/PowerBI_Indicadores-Mundiales/)**  
-  Visualización interactiva.
+  Análisis visual e interactivo sobre la población mundial 
 
 - 📚 **[Análisisen R]()**  
   Estudio sobre .
