@@ -7,8 +7,8 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 
 ## 🚀 Proyectos destacados
 
-- ⚽ **[Análisis ]()**  
-  Proyecto para explorar y optimizar bases de datos relacionadas al .
+- ⚽ **[Análisis churn en R](https://co7co7.github.io/Co7Co7.github.io-Prueba-churn/)**  
+Pruebas sobre desertores de servicio.
 
 - 📊 **[Dashboard de indicadores mundiales](https://co7co7.github.io/PowerBI_Indicadores-Mundiales/)**  
   Análisis visual e interactivo sobre la población mundial 
