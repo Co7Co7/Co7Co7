@@ -13,8 +13,8 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 - 📊 **[Dashboard de indicadores mundiales](https://co7co7.github.io/PowerBI_Indicadores-Mundiales/)**  
   Análisis visual e interactivo sobre la población mundial 
 
-- 📚 **[Análisisen R]()**  
-  Estudio sobre .
+- 📚 **[Comparación en R de entre los índices S&P 500 y NASDAQ](https://co7co7.github.io/Co7Co7.github.io-RStudio-Personal/)**  
+  Comparación entre los índices S&P 500 y NASDAQ
 
 - 🎵 **[Exploración de datos con el API de Spotify]()**  
   Proyecto para practicar APIs y analizar tendencias musicales.
