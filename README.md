@@ -7,6 +7,9 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 
 ## 🚀 Proyectos destacados
 
+- **[Análisis Call Center en R](https://co7co7.github.io/Call_Center/)**
+  
+
 - ⚽ **[Análisis churn en R](https://co7co7.github.io/Co7Co7.github.io-Prueba-churn/)**  
 Pruebas sobre desertores de servicio.
 
@@ -22,7 +25,6 @@ Pruebas sobre desertores de servicio.
 - 📈 **[Proyectos de Econometría](https://co7co7.github.io/Econometrics/)**  
   Actividades aplicadas con R sobre series de tiempo, modelos ARIMA  y más.
 
-- **[Proyectos de Econometría](https://co7co7.github.io/Call_Center/)**  
 
 
 ---
