@@ -22,7 +22,7 @@ Pruebas sobre desertores de servicio.
 - 📈 **[Proyectos de Econometría](https://co7co7.github.io/Econometrics/)**  
   Actividades aplicadas con R sobre series de tiempo, modelos ARIMA  y más.
 
-- **[Proyectos de Econometría]([https://co7co7.github.io/Econometrics/](https://co7co7.github.io/Call_Center/))**  
+- **[Proyectos de Econometría](https://co7co7.github.io/Call_Center/)**  
 
 
 ---
