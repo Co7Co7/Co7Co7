@@ -18,6 +18,10 @@ Pruebas sobre desertores de servicio.
 
 - 🎵 **[Exploración de datos con el API de Spotify](https://co7co7.github.io/Spotify/)**  
   Proyecto para practicar APIs
+  
+- 📈 **[Proyectos de Econometría](https://co7co7.github.io/Econometrics/)**  
+  Actividades aplicadas con R sobre series de tiempo, modelos ARIMA  y más.
+  
 
 ---
 
