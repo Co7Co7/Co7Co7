@@ -7,6 +7,15 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 
 ## 🚀 Proyectos destacados
 
+- 🎵 **[App interactiva con el API de Spotify](https://co7co7.shinyapps.io/Spotify/)**  
+Funcionalidades:
+- Buscar cualquier artista y ver sus canciones más populares.
+- Estimar su posición en el top 100 de artistas según su popularidad.
+- Ver artistas similares por género.
+
+- 🎵 **[Exploración de datos con el API de Spotify](https://co7co7.github.io/Spotify/)**  
+  Proyecto para practicar APIs
+
 - **[Análisis Call Center en R](https://co7co7.github.io/Call_Center/)**
   
 
@@ -19,8 +28,6 @@ Pruebas sobre desertores de servicio.
 - 📚 **[Comparación en R entre los índices S&P 500 y NASDAQ](https://co7co7.github.io/Co7Co7.github.io-RStudio-Personal/)**  
   Comparación entre los índices S&P 500 y NASDAQ
 
-- 🎵 **[Exploración de datos con el API de Spotify](https://co7co7.github.io/Spotify/)**  
-  Proyecto para practicar APIs
   
 - 📈 **[Proyectos de Econometría](https://co7co7.github.io/Econometrics/)**  
   Actividades aplicadas con R sobre series de tiempo, modelos ARIMA  y más.
