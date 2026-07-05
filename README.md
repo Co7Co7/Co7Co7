@@ -7,7 +7,7 @@ Me gusta transformar datos en información útil para la toma de decisiones.
 
 ## 🚀 Proyectos destacados
 
-- ⚽ **[ScoutIQ — Análisis del fútbol europeo]([https://co7co7.github.io/Co7Co7.github.io-Prueba-churn/](https://co7co7.github.io/scoutiq-football-analytics/))**  
+- ⚽ **[ScoutIQ — Análisis del fútbol europeo](https://co7co7.github.io/scoutiq-football-analytics/)**  
 Un proyecto integral de análisis de fútbol que abarca las 5 principales ligas europeas durante 4 temporadas (2022-23 a 2025-26). Combina datos de salario, valoración y rendimiento en un modelo de datos basado en estrellas y ofrece información valiosa a través de un panel de control HTML interactivo e independiente.
 
 - 🎵 **[App interactiva con el API de Spotify](https://co7co7.shinyapps.io/Spotify/)**  
